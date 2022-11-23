@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">myapp</string>
+    <string name="button">Przycisk</string>
+    <string name="button1">Kolejny przycisk</string>
+</resources>
